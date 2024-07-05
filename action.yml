@@ -1,9 +1,9 @@
 name: "Deploy to Gist"
 description: "📌 Deploy file to Github Gist."
-author: "Exuanbo"
+author: "barry"
 branding:
   icon: "upload-cloud"
-  color: "green"
+  color: "blue"
 inputs:
   token:
     required: true
